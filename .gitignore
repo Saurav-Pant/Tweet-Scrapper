@@ -10,7 +10,7 @@ tweet_scraper_env/
 *.csv
 
 # Ignore JSON files
-WaterCodes.json
+# WaterCodes.json
 waterisCoding.json
 waterIsCoding.json
 
