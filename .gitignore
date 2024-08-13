@@ -1,0 +1,16 @@
+# Ignore everything except scrape_tweet.py
+
+!.gitignore
+!scrape_tweet.py
+
+# Ignore environment directories
+tweet_scraper_env/
+
+# Ignore CSV files
+*.csv
+
+# Ignore JSON files
+*.json
+
+# Ignore any potential sensitive data files
+.env
