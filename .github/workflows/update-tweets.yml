@@ -33,6 +33,14 @@ jobs:
         unzip chromedriver_linux64.zip
         sudo mv chromedriver /usr/local/bin/
         sudo chmod +x /usr/local/bin/chromedriver
+      shell: /usr/bin/bash -e {0}
+      env:
+        pythonLocation: /opt/hostedtoolcache/Python/3.12.4/x64
+        PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.12.4/x64/lib/pkgconfig
+        Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.4/x64
+        Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.4/x64
+        Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.4/x64
+        LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.12.4/x64/lib
     
     - name: Run scraping script
       env:
