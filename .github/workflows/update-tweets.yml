@@ -26,16 +26,14 @@ jobs:
     - name: Set up Chrome and ChromeDriver
       uses: browser-actions/setup-chrome@v1
       with:
-        chrome-version: 'latest'
-        driver-version: 'matching'
+        chrome-version: '114.0.5735.198'  
+        driver-version: '114.0.5735.90'   
     
     - name: Run scraping script
       env:
         TWITTER_USERNAME: ${{ secrets.TWITTER_USERNAME }}
         TWITTER_PASSWORD: ${{ secrets.TWITTER_PASSWORD }}
       run: |
-        echo "TWITTER_USERNAME is set: ${{ secrets.TWITTER_USERNAME != '' }}"
-        echo "TWITTER_PASSWORD is set: ${{ secrets.TWITTER_PASSWORD != '' }}"
         python server/scrape_tweet.py
     
     - name: Commit and push if changed
