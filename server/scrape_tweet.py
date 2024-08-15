@@ -165,12 +165,12 @@ def update_json(new_tweets, json_filename):
 
 def daily_update():
     username = "wateriscoding"
-    twitter_username = os.getenv('TWITTER_USERNAME')
-    twitter_password = os.getenv('TWITTER_PASSWORD')
+    twitter_username = os.environ.get('TWITTER_USERNAME')
+    twitter_password = os.environ.get('TWITTER_PASSWORD')
     csv_filename = 'waterIsCoding.csv'
     json_filename = '../client/WaterCodes.json'
 
-    if not all([username, twitter_username, twitter_password]):
+    if not all([twitter_username, twitter_password]):
         logging.error("Missing required environment variables. Please check your .env file.")
         return
 
