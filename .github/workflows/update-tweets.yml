@@ -16,9 +16,9 @@ jobs:
         python-version: '3.12.4'
     - name: Install dependencies
       run: |
-        python -m pip3 install --upgrade pip
-        pip3 install -r server/requirements.txt
-        pip3 install selenium
+        python -m pip install --upgrade pip
+        pip install -r server/requirements.txt
+        pip install selenium
     - name: Run scraping script
       env:
         TWITTER_USERNAME: ${{ secrets.TWITTER_USERNAME }}
