@@ -13,6 +13,7 @@ tweet_scraper_env/
 # WaterCodes.json
 waterisCoding.json
 waterIsCoding.json
+secure.json
 
 # Ignore any potential sensitive data files
 .env

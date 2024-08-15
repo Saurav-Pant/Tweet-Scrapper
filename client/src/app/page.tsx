@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { useState } from 'react';
 
-import waterCodes from "@/content/WaterCodes.json"
+import waterCodes from "../../WaterCodes.json"
 
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -87,3 +87,5 @@ export default function Home() {
     </div>
   );
 }
+
+
