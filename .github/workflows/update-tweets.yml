@@ -9,6 +9,7 @@ jobs:
   update-tweets:
     runs-on: ubuntu-latest
     environment: Production
+
     steps:
     - uses: actions/checkout@v3
     
@@ -22,25 +23,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r server/requirements.txt
     
-    - name: Set up Chrome
-      uses: browser-actions/setup-chrome@latest
-    
-    - name: Install ChromeDriver
-      run: |
-        CHROME_VERSION=$(google-chrome --version | awk '{print $3}' | cut -d'.' -f1-3)
-        CHROMEDRIVER_VERSION=$(curl -s "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_${CHROME_VERSION}")
-        wget -q "https://chromedriver.storage.googleapis.com/${CHROMEDRIVER_VERSION}/chromedriver_linux64.zip"
-        unzip chromedriver_linux64.zip
-        sudo mv chromedriver /usr/local/bin/
-        sudo chmod +x /usr/local/bin/chromedriver
-      shell: /usr/bin/bash -e {0}
-      env:
-        pythonLocation: /opt/hostedtoolcache/Python/3.12.4/x64
-        PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.12.4/x64/lib/pkgconfig
-        Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.4/x64
-        Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.4/x64
-        Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.4/x64
-        LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.12.4/x64/lib
+    - name: Set up Chrome and ChromeDriver
+      uses: browser-actions/setup-chrome@v1
+      with:
+        chrome-version: 'latest'
+        driver-version: 'matching'
     
     - name: Run scraping script
       env:
