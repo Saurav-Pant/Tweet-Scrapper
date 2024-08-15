@@ -10,9 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import logging
 import os
-from dotenv import load_dotenv
 
-load_dotenv()
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -171,7 +169,7 @@ def daily_update():
     json_filename = '../client/WaterCodes.json'
 
     if not all([twitter_username, twitter_password]):
-        logging.error("Missing required environment variables. Please check your .env file.")
+        logging.error("Missing required environment variables. Please check your GitHub Actions secrets and environment variables.")
         return
 
     new_tweets = scrape_recent_tweets(username, twitter_username, twitter_password)
