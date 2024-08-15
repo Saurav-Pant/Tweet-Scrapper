@@ -1,13 +1,5 @@
 [
     {
-      "Tweet": "Day 103 of ML:\n> Played around with old models and tried increasing their accuracy, now that i know more about them\n> Continued finetuning expedition and read how the alpaca model was made. Also found 'textbook is all you need' paper, might read the entire paper.\nCya;)",
-      "Link": "https://x.com/wateriscoding/status/1822010724711068104"
-    },
-    {
-      "Tweet": "Day 101 of ML:\n> Dealt with an error in the data which i still haven't solved\n> Learnt about finetuning LLMs, the supervised finetuning and rlhf, will learn more about it. Also I'll keep reading about attention and Transformers as i go (it is vast and i need deep unders...)\nCya;)",
-      "Link": "https://x.com/wateriscoding/status/1820925879012233419"
-    },
-    {
       "Tweet": "Day 100 of ML:\n> Finally completed the training of my gpt (decoder) model. It's a tiny language model trained on the screenplay of Titanic movie with 167k parameters. The results are not too good but they're are fine. \n> Finally looked a bit into llm fine-tuning and stuff\nCya;)",
       "Link": "https://x.com/wateriscoding/status/1820185763872743924"
     },
