@@ -8,6 +8,7 @@ on:
 jobs:
   update-tweets:
     runs-on: ubuntu-latest
+    environment: Production
     steps:
     - uses: actions/checkout@v3
     
@@ -26,6 +27,8 @@ jobs:
         TWITTER_USERNAME: ${{ secrets.TWITTER_USERNAME }}
         TWITTER_PASSWORD: ${{ secrets.TWITTER_PASSWORD }}
       run: |
+        echo "TWITTER_USERNAME is set: ${{ secrets.TWITTER_USERNAME != '' }}"
+        echo "TWITTER_PASSWORD is set: ${{ secrets.TWITTER_PASSWORD != '' }}"
         python server/scrape_tweet.py
     
     - name: Commit and push if changed
