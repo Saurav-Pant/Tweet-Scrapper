@@ -22,7 +22,7 @@ export default function Home() {
     <div className="overflow-x-hidden">
       <nav className="bg-white p-4">
         <div className="container mx-auto flex flex-col sm:flex-row justify-between items-center">
-          <Link href="https://twitter.com/wateriscoding" className="text-black text-lg sm:text-xl md:text-2xl font-bold mb-2 sm:mb-0"
+          <Link href="https://twitter.com/wateriscoding" className="text-orange-500 text-lg sm:text-xl md:text-2xl font-bold mb-2 sm:mb-0"
           target='_blank'
           >
             WaterCodes
