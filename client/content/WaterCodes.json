@@ -1,0 +1,326 @@
+[
+  {
+    "Tweet": "Day 100 of ML:\n> Finally completed the training of my gpt (decoder) model. It's a tiny language model trained on the screenplay of Titanic movie with 167k parameters. The results are not too good but they're are fine. \n> Finally looked a bit into llm fine-tuning and stuff\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1820185763872743924"
+  },
+  {
+    "Tweet": "Day 99 of ML:\n> Worked some more on improving apis and models \n> Implemented multi head and blocks to the transformer but this model won't train due to low gpu , I'll try to train it again on cloud gpu tmrw\n(Btw here's the code ->)\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1819838591369138202"
+  },
+  {
+    "Tweet": "Day 97 of ML:\n> Some hard work again towards the model deployment and testing (also might learn AWS, since needed for work) \n> More progress in creating transformer, starting to implement attention tmrw, btw this is how results look after little training\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1819112833793302667"
+  },
+  {
+    "Tweet": "Day 96 of ML:\n> Worked on improving previous models and data pipelines \n> More brain scratching on building transformer from scratch\nAm not doing much because I have college from 9-5 daily and then i/ship work, and finally learn (I think i need to grind more) \nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1818745854087569624"
+  },
+  {
+    "Tweet": "Day 95 of ML:\n(coming back on track)\n> Finally completed the entire api with fastapi, docker and also deployed the models (feeling very satisfied rn, created a big thing from scratch)\n> Got back on llm study and started coding, going with a decoder block that writes quotes\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1818373763760898106"
+  },
+  {
+    "Tweet": "Day 94 of ML:\n> PRETTY BIG DAY, as i completed ~80-85% of the api work and now just minor things left + some tweaking (learnt fastapi in the process)\n> watched the karpathy Transformers video for the second time but now i understand more concepts (need to start coding now)\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1816567156064256224"
+  },
+  {
+    "Tweet": "Day 92 of ML:\n> Worked on fixing broken lr of one of the models (still unfixed suggestions welcomed) \n> Also learnt about the communication inside self attention and coded them (still don't know why sensei used the 2nd method just for history purposes when 1st was easier)\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1815483444279070875"
+  },
+  {
+    "Tweet": "Day 91 of ML:\n> Traveled back to uni and started the grind. But the charger messed up and now I have to fix it\n> Still managed to complete the data processing part for gpt.\n> Decided to build it along rather than only watching lectures, also building it on different dataset\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1815119159396860088"
+  },
+  {
+    "Tweet": "Day 90 of ML:\n> Worked on data preprocessing, api and learnt about parallel processing for work \n> Learnt some assembly and wrote first code in it\n> Learnt some things about attention, will start coding it tmrw (ig coding it is the best way to learn it)\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1814377901019804122"
+  },
+  {
+    "Tweet": "Day 88 of ML:\n> Mostly caught up with work (working with models, APIs etc.)\n> Learnt more about RNN (seq2seq, nonseq2seq concepts) \n> Also a little info on attention (found this great vid. Do watch)\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1813658498980561056"
+  },
+  {
+    "Tweet": "Day 87 of ML:\n> Fixed all the bugs and issues in the api (really happy about that, i had almost given hope jk)\n> Learnt some more about RNN, i was thinking about implementing it on my own (with minor help), is that a good idea\nAint feeling too good today, will continue tmrw\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1813294596535058792"
+  },
+  {
+    "Tweet": "Day 86 of ML:\n> Worked a lot on api and finally solved a major bug bugging me (now it shouldn't take much long to finish) \n> Also continued learning about Transformers, learnt a little about RNNs (FAFO) and found a great lecture around it, will continue more of it\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1812942205746880925"
+  },
+  {
+    "Tweet": "Day 84 of ML:\n> Implemented the entire distilbert model back again cause i couldn't find the issue (and the issue still persists) :(\n> Also wifi is down again so can't study, today was so gloomy(just one thing happening after another), so I'll just read some manga or sleep \nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1812177807793103267"
+  },
+  {
+    "Tweet": "Day 83 of ML:\n> Rebuilt the previously made model with different approach (changed encoder and stuff), but now the model is overfitting :( , will have to try different approach\n> Also started the gpt part of the series, really excited to build it...",
+    "Link": "https://x.com/wateriscoding/status/1811850131030876450"
+  },
+  {
+    "Tweet": "Day 82 of ML:\n> Completed the data pipeline for one of the models (overcame all the bugs to finally build api)\n> Starting working on another's \n> Finally implemented the wavenet part of the wordmore, but couldn't train it completely (was taking a lot of time, will do tmrw)\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1811490613424017739"
+  },
+  {
+    "Tweet": "Day 81 of ML:\n> Handled a lot of data processing today for the API until the data changed (did it again) but yeah the models are now training over api \n> used some techniques you guys suggested (they are working)\n> I remembr wordmore and i swear Ill implement wavenet tmrw\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1811116038995517602"
+  },
+  {
+    "Tweet": "Day 80 of ML:\n> Made the api routes for the api and also set up the docker image. (It took a lot of time since i had zero idea about this) \n> Pytorchified the wordmore codebase (added functions) \nGuys I'm experiencing low productivity these days any suggestions are welcome!\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1810751728058519848"
+  },
+  {
+    "Tweet": "Day 79 of ML:\n> Worked on the deployment of the dl models. Now only other major parts remain but i have at least figured out the basic stuff. \n> Couldnt work on wavenet today, got too busy with the above stuff and Im a little confused about dims, so planning to do it slowly\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1810403361734459594"
+  },
+  {
+    "Tweet": "Day 77 of ML:\n> learnt about Docker today and made progress in fastapi Built an api with endpoint\n> did some more backprop in the code (i think I'm good at this)\n> started wavenet part, will build using wavenet tmrw\nAlso a coincidence that I'm posting about day 77 on 7/7 XD\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1809681217413083634"
+  },
+  {
+    "Tweet": "Day 76 of ML:\n> got confused whether to use flask or fastapi and ended up learning about both. (spent more than half of the day figuring this stuff)\n> Completed some more backprop activity, this time i did most of the backprop on my own without help (except the end)\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1809322399034474923"
+  },
+  {
+    "Tweet": "Day 75 of ML:\n> Rebuilt the entire transformer model i made a few days ago to find shortcomings and improve it (took the entire day but it was worth it + i understood most of the code this time)\n> advanced on my way to become a backprop ninja (this is really helping me out)\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1808954299512410181"
+  },
+  {
+    "Tweet": "Day 73 of ML:\n> learnt about batch normalisation and implemented the kaimin init initialisation for the weights and added batch norms in the layers, hence now bringing down the loss to ~2.05 (still need to work on that)\n> researched about flagging strategies and stuff(work)\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1808230029760872689"
+  },
+  {
+    "Tweet": "Day 72 of ML:\n> Learnt about activations, initialising the gradients, and a lot about batch norms (sensei is a god for existing these things so simply)\n> did some research and results comparisons of models\n> will apply all the learnt things tomorrow\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1807852638450659539"
+  },
+  {
+    "Tweet": "Day 70 of ML:\n> made and tested multiple models today (for work, took almost the entire day)\n> resumed the mlp part of makemore (watched the lecture, implementation left)\n> Finally watched the champions lift the trophy.\nLET'S GOOOOOO!!!!\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1807132834509025647"
+  },
+  {
+    "Tweet": "Day 69 of ML:\n> completed the wordmore model implementation in Go (nn and mlp left)\n> made a model using autogluon and man it is great (somehow feels like cheating though)\nAlso didn't realise today was the 69th day, i could've done smthn special, missed opportunity, smh\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1806763703632871837"
+  },
+  {
+    "Tweet": "Day 68 of ML:\n> started makemore implementation (making wordmore actually with English words) in golang, and just the starting parts gave me a hard time\n> Played along with transformer models (work), also explored other model algo like autogluon, etc\nFinally some ind vs eng\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1806411626066882846"
+  },
+  {
+    "Tweet": "Day 67 of ML:\n> added Matrix multiplication and other minor functions in the go autograd (thinking of taking it multidimensional)\n> Revised makemore model (also planning to make it in go)\n> Did a lot of model training, tuning and debugging for work model\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1806049181351690627"
+  },
+  {
+    "Tweet": "Day 66 of ML:\n> Added layers, MLP and other minor functions to this autograd project \n> Implemented the first karpathy vid on nn in golang (the project is complete till there)\n> did a lot of data processing and model searching research for internship tasks\n> Ended with rest\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1805685316294262924"
+  },
+  {
+    "Tweet": "Day 65 of ML:\n> added a whole neuron func and some other minor functions to the model, also half of layer done \n> improved the file structure and created it's packages (i had no idea about packages (skill issue))\n> secured an internship\n> ended the day doing internship task\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1805314411495932378"
+  },
+  {
+    "Tweet": "Day 64 of ML:\n> added activation functions (sigmoid, relu, tanh) in the go autograd (suggest a good name for this)\n> created backward function to backpropagate through all nodes (layers, mlp left)\n> ended the day with studying about constant pointers and pointers with const\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1804948682250588448"
+  },
+  {
+    "Tweet": "Day 62 of ML:\n> learned the theory part of mlp makemore. (Context window, embedding, etc.)\n> couldn't build it though, somehow slowed down today\n> will come back tmrw!!!\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1804230038294024287"
+  },
+  {
+    "Tweet": "Day 61 of ML:\n> added neural network to the newsmore (single layer) but the loss is same  (nn with 1 layer is pretty useless imo)\n> it is yapping gibberish, I'll add layers tmrw and see how it works\n> also got some ideas for it, will implement in later days\nGot back pain\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1803863003219268081"
+  },
+  {
+    "Tweet": "Day 60 of ML:\n> started working on makemore\n> Learnt about making a bigram model, multinomial distribution, and predicting the characters. (Below is a set of headlines made by model)\n> will make it based on nn tmrw\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1803497271029620800"
+  },
+  {
+    "Tweet": "Day 59 of ML:\n> today was so complex like i can't collect what i did throughout the day. \n> played around with tokenizers and stuff, experimented with mojo and finally ended up on golang.\nI need to make a proper schedule and stick to it ig.\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1803149509431837017"
+  },
+  {
+    "Tweet": "Day 58 of ML:\n> studied about attention, embedding matrices, etc\n> also learnt about tokenizer (this sh*t is not as easy as it looks like)\n> couldn't do hyperparameters (since done of you suggested Bayesian, guess I'll pivot to that)\nWill cook tomorrow\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1802782515847127494"
+  },
+  {
+    "Tweet": "Day 57 of ML:\n> well learnt about Transformers (intro to attention), gotta learn more since making a project around it\n> Also continued the hyperparameters study (types of hyperparameters)\n\nCouldn't focus after all the things that happened, will watch anime and sleep now\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1802422711836459327"
+  },
+  {
+    "Tweet": "Day 55 of ML:\n> finally the exams ended and I returned home (to a lot of time)\n> again learnt about the tuning and stuff\n> Dealt with some imp work\n> decided a maybe future project\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1801708554124202242"
+  },
+  {
+    "Tweet": "Day 54 of ML:\n> completed the previous model today and got done with it\n> Back to learning hyperparameters tuning\n> learnt how to choose batch size, training throughput, and effect of batch size on hyperparameters\nMore about it to come...\nCya:)",
+    "Link": "https://x.com/wateriscoding/status/1800974774249849001"
+  },
+  {
+    "Tweet": "Day 53 of ML:\n> finally managed to bring the model to train by creating dataloaders of the dataset and then training over them (~72%)\n> Have to tune the hyperparameters\n> learnt about dataloaders, batches, etc. Actually, learnt a lot about these things in the last few days.\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1800614302715715893"
+  },
+  {
+    "Tweet": "Day 51 of ML:\n> Learning about fine-tuning models through the playbook and applying it\n> Learning about Transformers and how to train models using int and text data for a project (any resources for them are welcome)\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1799530352589033769"
+  },
+  {
+    "Tweet": "Day 49 of ML:\n> played around with regularisation methods (L1, L2, Dropout) and implemented them together in the model (turned out inefficient)\n> read the steps to train model by karpathy (will implement them tmrw)\n> will participate in competition tmrw, suggest a good one\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1798814264607826117"
+  },
+  {
+    "Tweet": "Day 48 of ML:\n> learnt the concept of regularisation. L2, L1, Dropout regularisation and many more and found great resource\n> Replaced dropout with L2 and the model is performing a tiny bit better (tiny)\n> Real question: can we use dropout and L2 together?\nResource below \nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1798443071312638035"
+  },
+  {
+    "Tweet": "Day 47 of ML:\n> Tried improving yesterday's kaggle model by adjusting hyperparameters, increasing neurons and increasing layers but result is same (please suggest how to do it)\n> Studied data science concepts for tomorrow's exams (great revision)\nWill grind harder tomorrow\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1798085248535945584"
+  },
+  {
+    "Tweet": "Day 46 of ML:\n> Participated in the kaggle competition and made the model myself, used the wrong optimizer  but then changed it and the results improved (took a lot of time), will improve it more tomorrow\n> also completed the implementation part of neuron, layers and mlp\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1797715857474564376"
+  },
+  {
+    "Tweet": "Day 45 of ML:\n> completed the neuron, layers and mlp part of the nn video, i will implement it in code tomorrow\n> Got the TOC exam tomorrow so spent most of the day studying for it\n> Will do more tomorrow\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1797367964733452707"
+  },
+  {
+    "Tweet": "Day 44 of ML:\n> Implemented backpropapation from scratch in python, took a lot of time + notes (pen+paper), but it was all worth it(karpathy sensei is a god fr)\n> will implement the rest of the layer and mlp tomorrow\n> was thinking of implementing it in CPP, should i do it?\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1796993993454305537"
+  },
+  {
+    "Tweet": "Day 42 of ML:\n> have a computer networks exams tomorrow so I studied for it for almost the entire day\n> finally completed ~17.25 hours of pytorch course video\n> learnt about creating non linear layers for simple cnn models\nWill compensate for the lack of ML tomorrow\nCya:)",
+    "Link": "https://x.com/wateriscoding/status/1796282216030392585"
+  },
+  {
+    "Tweet": "Day 41 of ML:\n> Watched cs231n's backprop lecture to understand backprop basics in depth, i might make it from scratch\n> ~16.5 hours into the pytorch course and learnt to make dataloaders, training and testing loops functions and other things\n> will revise cnn before sleep\n\nCya:)",
+    "Link": "https://x.com/wateriscoding/status/1795919232548421766"
+  },
+  {
+    "Tweet": "Day 40 of ML:\n> Got ~16 hours into the pytorch course and now learning computer vision basics\n> learnt about dataloaders, flatten layer and other layers in the model.\n> couldn't do much since exams are ongoing and had to study for tomorrow, will compensate it tomorrow ;)\n\nCya :)",
+    "Link": "https://x.com/wateriscoding/status/1795559512457572516"
+  },
+  {
+    "Tweet": "Day 38 of ML:\n> did a lot of linear algebra today, since I have an exam on the same tomorrow (good for ml)\n> made MNIST model on kaggle for the competition (needs some improvements, tomm)\n> no pytorch today, but will do it tom\nalso came across this great vid, check it out\n\nCya :)",
+    "Link": "https://x.com/wateriscoding/status/1794820271012241469"
+  },
+  {
+    "Tweet": "Day 37 of ML:\n> completed ~14 hours of the pytorch course and learnt about non linear layers and use of their functions\n> learnt about multi class classification models and the various activation functions to use (softmax, sigmoid, etc)\n> Will take part in competition tom\nCya:)",
+    "Link": "https://x.com/wateriscoding/status/1794464437895860429"
+  },
+  {
+    "Tweet": "Day 36 of ML:\n> almost 10.5 hours into pytorch and learnt about making classification models\n> Learnt about 'Sequential'. Had a lot of doubts around how to add activations across each layer but got them\n> No cpp today :( \n> also stumbled upon a great video by Samson Zhang!\n\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1794089845221999092"
+  },
+  {
+    "Tweet": "Day 35 of ML:\n> ~8.5 hours into the course and i completed the second part, learnt about losses, optimisers and other stuff\n> tried building my own model on my laptop, had to cut down 1.1 million rows down to 10k rows (CPU issue)\n> Finally some CPP to end the day\n\nCya ;)",
+    "Link": "https://x.com/wateriscoding/status/1793713277761102074"
+  },
+  {
+    "Tweet": "Day 34 of ML:\n> 6 hours into the pytorch course and learnt the fundamentals of tensors\n> learnt about loss and optimisers\n> Made my first model with class (all the models i made so far were from scratch, as taught in f. ai course), adding train loop tomorrow \n\nCya;)",
+    "Link": "https://x.com/wateriscoding/status/1793343329356468714"
+  },
+  {
+    "Tweet": "Day 33 of ML:\n> Decided to learn pytorch in detail and found this video\n> learnt everything about tensors and various functions for mat mul and others (can't build stuff due to bad internet + compute issue)\n> Finally ended the day with regular CPP.\n\nCya ;)",
+    "Link": "https://x.com/wateriscoding/status/1792996160988184813"
+  },
+  {
+    "Tweet": "Day 32 of ML:\n> spent half of the day figuring about hidden layers and neurons until i made it from scratch.\n> added the layer to the model but the laptop memory ran out \n> Eureka moment when I saw how to make nn with classes in pytorch\n> Finally some CPP to end the day\n\nCya ;)",
+    "Link": "https://x.com/wateriscoding/status/1792624381320929437"
+  },
+  {
+    "Tweet": "Day 30 of ML:\n> completed the fast ai part 1 course today\n> Learnt about convolution today\n> also learnt about pooling and dropout\n> since the course is done, I'll take it slow from here, maybe rewatch some parts and focus on building now\n> finally some CPP quiz to end the day",
+    "Link": "https://x.com/wateriscoding/status/1791918435519385600"
+  },
+  {
+    "Tweet": "Day 29 of ML:\n> did a lot of CPP, almost spent more than half of the day in it\n> continued fast ai lesson 8\n> learnt about embedding and making embedding function from scratch in pytorch\n\nWill dig in more tomorrow!!!",
+    "Link": "https://x.com/wateriscoding/status/1791559492901179814"
+  },
+  {
+    "Tweet": "Day 28 of ML:\n> did cpp for most of the day\n> continued the 3b1b nn series and watched backprop and the calculus behind it\nI was thinking of making nn in cpp, but the calculus part looks harsh, is there a library in cpp to deal with these derivatives\nalso is it viable to make it?",
+    "Link": "https://x.com/wateriscoding/status/1791182309317804464"
+  },
+  {
+    "Tweet": "Day 27 of ML:\n> studied weight decay\n> learned nn from 3b1b, since I wanted to understand nn in more depth \nFor the next few, I've decided to take things a little slow and implement as well as learn in depth, what I've studied so far.\n\nNow, i gotta watch demon slayer\nCya :)",
+    "Link": "https://x.com/wateriscoding/status/1790476313200914748"
+  },
+  {
+    "Tweet": "Day 26 of ML:\n> learnt about collaborative filtering, a very good way of creating recommendation systems\n> got to know the importance of biases\n> will focus on creating basic neural networks\n\nWould have slept today and not done anything if not for this streak. \nCya :)",
+    "Link": "https://x.com/wateriscoding/status/1790098767124844649"
+  },
+  {
+    "Tweet": "Day 24 of ML:\n> Done with exams, resumed the grind.\n> Revised the topics i learnt earlier\n> Made the notes in obsidian\n\nPS:- This is my brain XD",
+    "Link": "https://x.com/wateriscoding/status/1789361912129458329"
+  },
+  {
+    "Tweet": "Day 23 of ML:\n> learnt about gradient accumulation\n> learnt about gpu usage and batch size importance\n> learnt about ensembling models\n> will learn more of it tomorrow\n\nHave a special thing to say to y'all, but i will do it in the morning",
+    "Link": "https://x.com/wateriscoding/status/1786876317201203598"
+  },
+  {
+    "Tweet": "Day 22 of ML:\n> learnt about fastkaggle\n> Learnt the proper way of analysing problems on kaggle and the proper way of submissions\n> Understood the difference between resnet and convnext models. (Speed and accuracy)\n\nThis college is really cooking me fr",
+    "Link": "https://x.com/wateriscoding/status/1786111934603092003"
+  },
+  {
+    "Tweet": "Day 21 of ML:\n> learnt about OOB\n> learnt about partial dependence\n> learnt about bagging and boosting\nWill study them again for better understanding\n\nCurrently I'm not able to study more since I've a lot of assignments this week(exams next week), I'm extremely sorry",
+    "Link": "https://x.com/wateriscoding/status/1785771590157742466"
+  },
+  {
+    "Tweet": "Day 20 of ML:\n> revised binary split as it seemed confusing\n> started lec 6 of the course\n> learnt about the decision tree, gini, bagging and feature importance\n> Will learn OOB error tomorrow\n\nI am half asleep as i write this",
+    "Link": "https://x.com/wateriscoding/status/1785396354136830265"
+  },
+  {
+    "Tweet": "Day 18 of ML:\n> tried adding hidden layer to the previously made model (face errors)\n > Seeing a lot of buzz around LLMs so decided to take an overview of LLM therefore watched Andrej Karpathy's 'intro to llm', got a lot to learn.\nWas too busy with assignments today, will do tomm",
+    "Link": "https://x.com/wateriscoding/status/1784681199736373472"
+  },
+  {
+    "Tweet": "Day 17 of ML:\n> made a model and did my first kaggle competition submission today\n> Completed ch-5 and learnt about Binary split\n> will revisit some basic data analysis topics before sleep\n> wanted to take an overview of llm, will do it tomorrow",
+    "Link": "https://x.com/wateriscoding/status/1784305864482152867"
+  },
+  {
+    "Tweet": "Day 16 of ML:\n> revised the previous learnt nn model algorithm (got a bit confused in it) and made its notes\n> completed lecture 5 of dl fast ai\n> will study the concepts of data analysis since I wanna learn the basics\nWill train models from scratch on a bigger dataset tomorrow",
+    "Link": "https://x.com/wateriscoding/status/1783935131427999808"
+  },
+  {
+    "Tweet": "Day 15 of ML:\n> reached the halfway of the lecture 5 of fastai\n> used pytorch for the very first time in my life\n> made a simple linear model from scratch and trained it using gradient descent\n> Will make another model tomm\nTaking a little break today, maybe I'll watch some anime",
+    "Link": "https://x.com/wateriscoding/status/1783573258035404887"
+  },
+  {
+    "Tweet": "Day 14 of ML:\n> made my first NLP model based on tweet sentiment analysis and memory ran out\n> Learnt about making a neural network from scratch\n> learnt about tensors in pytorch and how Matrix multiplication takes place in it\n\nI'll try to implement this and make my own nn tomm",
+    "Link": "https://x.com/wateriscoding/status/1783230942527861026"
+  },
+  {
+    "Tweet": "Day 13 of ML:\n> Made my own 'Tweet Sentiment Analysis' model\n> collected 3 datasets (2 failed), 1 was good, so started making it\n> Faced tons of errors, solved them\n> finally, trained it 'n the CPU space ran out, so I'll have to resume tomm \n> Began fastai lect 5",
+    "Link": "https://x.com/wateriscoding/status/1782874500159463754"
+  },
+  {
+    "Tweet": "Day 12 of ML:\n> Couldn't understand NLP well, so studied it again and i understand it better now\n> made Matrix multi(*) algo in CPP for no reason (most of it is hardcoded, will make it better tomm)\n> i have data analysis tomm, so will study it(good chance to revise for ml)",
+    "Link": "https://x.com/wateriscoding/status/1782501367556292621"
+  },
+  {
+    "Tweet": "Day 11 of ML:\n> Revised some concepts from yesterday's lesson\n> Studied NLP, introduced to Transformers (will learn in detail)\n> Learnt the concept of tokenization and numericalization\n> Was caught up in college assignment so couldn't do much\n\nI'll continue NLP tomorrow",
+    "Link": "https://x.com/wateriscoding/status/1782137969824113137"
+  },
+  {
+    "Tweet": "Day 10 of ML:\n> Deployed my first ml model\n> Learnt neural network in depth- ch- 3(loss, activation fn, gradient descent, etc) (might do again)\nHuge thanks to \n@jeremyphoward\n , taught nn in the best way possible\n> Did some cp problems\n\nSatisfied?- somewhat \nT.fore, will do some cp",
+    "Link": "https://x.com/wateriscoding/status/1781763122359144848"
+  },
+  {
+    "Tweet": "Day 9 of ML:\n> MADE another model(Eye disease detection, posted it)\n> Learnt about deployment of ML models(fast ai lecture 2)\n> Was Awestruck by knowing that i can make NextJS websites with ML API(expect some projects soon)\n> Revised some CPP\nDidn't do much today, will try tomm",
+    "Link": "https://x.com/wateriscoding/status/1781396409734050208"
+  },
+  {
+    "Tweet": "Day 8 of ML:\n> Re-watched fastai lecture 1 to understand everything better\n> Understood all the concepts like data blocks, learning and fine tuning\n> made my own simple model\n> tomorrow I'll try to make more complex model\n\nIs the grind over for today? Maybe not. Will do cp tonit",
+    "Link": "https://x.com/wateriscoding/status/1781033885725528152"
+  },
+  {
+    "Tweet": "Day 6 of ML:\n> Learnt about gradient descent and stochastic gradient descent today\n> also learnt backpropagation\n(Will learn in detail about all of them)\n> Finally coded my first neural network using tf.\n> couldn't do anything for cp sadly.\nCollege sucked all the energy from me",
+    "Link": "https://x.com/wateriscoding/status/1780312915054338421"
+  },
+  {
+    "Tweet": "Day 5 of ML:\n> Revised CPP (almost 60% of my time), since I'm planning to do cp after a year.\n> Learnt the basics of deep learning\n> Learnt the correlation between neuron and neural network\n> learnt about the layers, the activation function and finally the cost function.",
+    "Link": "https://x.com/wateriscoding/status/1779952051763707913"
+  },
+  {
+    "Tweet": "Day 4 of ML: \nForgot to update this yesterday\n> Learnt about NLP\n> Learnt about the bag of words model\n> Made my first NLP model\nLFG",
+    "Link": "https://x.com/wateriscoding/status/1779413065169293374"
+  },
+  {
+    "Tweet": "Day 3 of ML:\nMade my first reinforcement learning model with Thompson Sampling.\nUnderstood some really essential topics and sent through your confidence bound and ultimately figured out that Thompson Sampling is the better choice.",
+    "Link": "https://x.com/wateriscoding/status/1778119432101044283"
+  }
+]

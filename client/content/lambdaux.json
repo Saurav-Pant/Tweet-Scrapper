@@ -1,0 +1,90 @@
+[
+  {
+    "Tweet": "it's time to start my daily ml grind",
+    "Link": "https://x.com/novasarc01/status/1814909366220333469"
+  },
+  {
+    "Tweet": "objectives of documenting my daily ml grind :\n- get back onto ml/dl algos more deeply along with the math under the hood \n- learning by building more stuff...learn fail learn repeat\n- discipline\n- obv to have more fun...let's gooooo!!!",
+    "Link": "https://x.com/novasarc01/status/1814914248725647504"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 8 hrs today\n- studied decision trees along with the math\n- understood what are impurity functions \n- learned about the ID3 and CART algorithms \n- revised some stats concepts \n- it\u2019s too much raining these days ",
+    "Link": "https://x.com/novasarc01/status/1816188871404917227"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- started with ensemble learning methods today \n- studied about boosting \n- understood the adaboost algorithm with the math (lil bit difficult tbh)\n- understood the concept of weak learners, finding best weak learner using optimization \n- broke my umbrella ",
+    "Link": "https://x.com/novasarc01/status/1816546519031468119"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 9 hrs today \n- revised some LA concepts\u2026inner product spaces, SVD, spectral theorem, consequences of SVD\n- studied operators on complex vector spaces\n- continued optimization lectures by stephen boyd\n- revised all the ml algos done in past week",
+    "Link": "https://x.com/novasarc01/status/1817632930287829333"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 7hrs today\n- did a project for uni which involved     creating a physics informed neural network model\n- explored some sci-ml projects \n- learned about the julia programming language \n-  debugged some ml code with my dev frnd\n- continued pmpp grind",
+    "Link": "https://x.com/novasarc01/status/1819126350235816119"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- 12 hrs project grind at uni\n- worked on building ml model pipeline for a medicine based project \n- learned abt data engineering and deployment from my cracked frnds at uni\n- brainstormed on the current state of llms and gained insights from PhD students",
+    "Link": "https://x.com/novasarc01/status/1819811853247135885"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 8hrs\n- started with subword tokenization techniques \n- understood the BPE algorithm \n- continued the zero to hero series\n- completed the end to end ml med project at uni\n- brainstormed on some concepts from pmpp with my cracked uni frnds",
+    "Link": "https://x.com/novasarc01/status/1822360302840676478"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 8hrs \n- learned about sentence piece with detailed study of its       components \n- understood subword regularization in sentence piece\n- read the word2vec paper and studied about word embeddings\n- understood vector databases",
+    "Link": "https://x.com/novasarc01/status/1822717159321067637"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied 8 hrs today \n- understood RNNs in depth with math\n- studied forward propagation in RNNs, hidden state update\n- studied back propagation in RNNs, calculated loss using gradient descent\n- created a sentiment analysis model using RNNs in python from scratch",
+    "Link": "https://x.com/novasarc01/status/1825645900548681889"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 8 hrs\n- started with LSTMs today \n- understood vanishing gradient problem in RNNs\n- studied about cell state, hidden state, memory cells\n- learned about gating mechanisms, forget gate, input gate, output gate \n- learned abt how info flows in lstms",
+    "Link": "https://x.com/novasarc01/status/1825978942412697905"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 8.5hrs\n- started with GANs\n- understood adversarial training \n- learned the intuition behind GANs, GAN model, latent space, generator and discriminator\n- continued pmpp grind\n- studied parallel convolution \n- learned about constant memory and caching",
+    "Link": "https://x.com/novasarc01/status/1826341492560171252"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 8hrs\n- read the StyleGAN paper\n- studied the core architecture of StyleGAN, adaptive instance normalization\n- learned about mixing regularization, progressive growing\n- started implementing the paper in python\n- read blogs on https://distill.pub",
+    "Link": "https://x.com/novasarc01/status/1828863478737592829"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 7.5hrs\n- finished my StyleGAN implementation in python \n- debugged and wrote some code for a llama-3 + RAG based medical chatbot with my friend\n- brainstormed on fine tuning models\n- learned about model deployment on cloud platforms",
+    "Link": "https://x.com/novasarc01/status/1829226637352939784"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 7.5 hrs\n- learned about GRUs (Gated Recurrent Units)\n- understood update gate, reset gate, hidden state, math\n- read the GRU evaluation paper\n- studied probabilistic language modeling and n-gram models\n- chain rule of probability, markov property",
+    "Link": "https://x.com/novasarc01/status/1829611225724211217"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 7.5hrs\n- learned about skip gram models, word2vec, embeddings \n- understood negative sampling and cosine similarity \n- built a skip gram model with negative sampling using the text8 dataset from scratch \n- explored some word similarity datasets",
+    "Link": "https://x.com/novasarc01/status/1830679779919720889"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 8hrs\n- learned abt transformers and attention mechanism\n- built a transformer model from scratch using the europarl eng-german dataset\n- implemented positional encoding, tokenizer and multi head attention in the model\n-read the holy transformer paper",
+    "Link": "https://x.com/novasarc01/status/1831107261692805250"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 7.5hrs\n- played around web scraping, built a web scraper, created my own mini datasets\n- studied more transformer math\n- started with implementing bert model in python, read the bert paper\n- watched karpathy sensei\u2019s gpt tutorial",
+    "Link": "https://x.com/novasarc01/status/1831421279020421385"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 8hrs\n- finished implementing bert model, used the stanford sentiment treebank dataset\n- started learning about fine tuning models\n- fun mode got activated: built an image to ascii art generator \n- spend some time refining the image quality",
+    "Link": "https://x.com/novasarc01/status/1831833600742064440"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 8hrs \n- completed the GPT-2 implementation in python \n- explored some more transformer models like T5, RoBERTa and XLNet\n- studied about PEFT and Adapters (LoRA)\n- read the hugging face documentation and how to implement these techniques",
+    "Link": "https://x.com/novasarc01/status/1832488592083501227"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied 7.5hrs\n- started studying diffusion models\n- understood the core intuition and math \n- forward and reverse diffusion process, denoising\n- derived the loss function using kl divergence \n- started implementation in python\n- revised VAEs",
+    "Link": "https://x.com/novasarc01/status/1833610102240383266"
+  },
+  {
+    "Tweet": "DAILY ML GRIND:\n- studied for 8.5 hrs\n- studied autoencoders \n- under complete and over complete autoencoders, deriving loss function, input cases\n- learned about regularization in autoencoders \n- understood denoising autoencoders \n- pmpp grind : studied redn trees, redn kernel",
+    "Link": "https://x.com/novasarc01/status/1828114893960024131"
+  }
+]
